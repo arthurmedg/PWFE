@@ -1,0 +1,8 @@
+#meuDiv {
+    width: 20vw;
+    height: 10vh;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
