@@ -1,0 +1,34 @@
+.conteudo-centralizado {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: #c1c1c1;
+    padding: 20px;
+    box-shadow: 3px;
+    box-shadow: 3px 6px 10px 6px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    box-sizing: border-box; 
+    width: 35%;
+}
+
+.area-botao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+button {
+    margin-top: 20px;
+    color: #fff;
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    background: #007e7e;
+    box-shadow: 3px 6px 10px 6px rgba(120, 120, 120, 0.2);
+    padding: 10px 15px;
+}
